@@ -1,0 +1,26 @@
+<annotation>
+	<folder>shotgun</folder>
+	<filename>img257.jpg</filename>
+	<path>C:\Users\ajmal\Progamming\images\shotgun\img257.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>612</width>
+		<height>432</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>shotgun</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>150</xmin>
+			<ymin>73</ymin>
+			<xmax>212</xmax>
+			<ymax>160</ymax>
+		</bndbox>
+	</object>
+</annotation>

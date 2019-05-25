@@ -1,0 +1,26 @@
+<annotation>
+	<folder>pistols</folder>
+	<filename>img080.jpg</filename>
+	<path>C:\Users\ajmal\Progamming\images\pistols\img080.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>612</width>
+		<height>422</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>pistol</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>337</xmin>
+			<ymin>147</ymin>
+			<xmax>520</xmax>
+			<ymax>235</ymax>
+		</bndbox>
+	</object>
+</annotation>

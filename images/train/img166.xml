@@ -1,0 +1,26 @@
+<annotation>
+	<folder>rifles</folder>
+	<filename>img166.jpg</filename>
+	<path>C:\Users\ajmal\Progamming\images\rifles\img166.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>612</width>
+		<height>597</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>rifle</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>217</xmin>
+			<ymin>311</ymin>
+			<xmax>516</xmax>
+			<ymax>438</ymax>
+		</bndbox>
+	</object>
+</annotation>
